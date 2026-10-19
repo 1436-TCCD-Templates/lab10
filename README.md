@@ -1,4 +1,4 @@
-# Battleship (Weeks 10–15 lab thread)
+# Battleship
 
 A solo Battleship game: find and sink a hidden fleet on a 10×10 board, using as few shots as you can. The fleet, a practice board, and the high-score list all live in files. You will extend this one project across the remaining weekly labs. Each week starts from the instructor's solution to the previous week.
 
